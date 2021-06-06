@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458199475245",
+    "project_id": "notification-topic",
+    "storage_bucket": "notification-topic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458199475245:android:24e1a5ba6e8b7eabf784a4",
+        "android_client_info": {
+          "package_name": "com.cloudware.notification_topic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458199475245-0el24tjlpgomu613onddqlfabfe7kupc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbRqWfd866g-2sC0OK5UIbLBq_qg8ZRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458199475245-0el24tjlpgomu613onddqlfabfe7kupc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

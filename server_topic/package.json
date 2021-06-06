@@ -1,0 +1,14 @@
+{
+  "name": "server-topic",
+  "version": "1.0.0",
+  "description": "Push notification to firebase messaging topic",
+  "main": "server.js",
+  "author": "nakvanna",
+  "license": "cloudware",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^9.9.0"
+  }
+}
