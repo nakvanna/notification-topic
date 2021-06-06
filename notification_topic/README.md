@@ -1,6 +1,12 @@
-# notification_topic
+# Notification topic
 
-A new Flutter project.
+Flutter recieve message from topic subscription
+
+## Package Using
+> - [Get CLI](https://pub.dev/packages/get_cli/install). Using for generator.
+> - [firebase_core](https://pub.dev/packages/firebase_core).
+> - [firebase_messaging](https://pub.dev/packages/firebase_messaging).
+> - [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications).
 
 ## Getting Started
 
